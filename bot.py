@@ -122,7 +122,7 @@ async def cmd_start(message: Message):
     """Обработчик команды /start"""
     welcome_text = (
         "👋 <b>Добро пожаловать!</b>\n\n"
-        "Я бот с поддержкой множества AI-моделей через ProxyAPI:\n"
+        "Я бот с поддержкой множества AI-моделей:\n"
         "• ⭐ <b>OpenAI:</b> GPT-5.2, GPT-5 Mini, GPT-5.1 Codex\n"
         "• 🎭 <b>Claude:</b> Opus 4.5, Sonnet 4.5, Haiku 4.5\n"
         "• 🧠 <b>DeepSeek:</b> V3, Reasoner\n"
